@@ -1,4 +1,4 @@
-# Front-end Code Challenge
+# Front-End Code Challenge
 @mxsterupskill
 
 
